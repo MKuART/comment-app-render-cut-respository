@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Kommentar-App</h1>
+      <h1>Kommentar-App,</h1>
     </>
   )
 }
